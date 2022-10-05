@@ -36,7 +36,7 @@ Contribute to start your journey with hacktoberfest and python. Happy Hacking�
 
 ### ⚡If you are creating any PR then Add your name in CONTRIBUTORS.md file 
 
-## 🛡Follow rules strictly for successful merged PR!!!
+## 🛡Follow rules strictly for successful merged PR!!!?
 
 # ❄Prgrams
 - ⚡Create any pattern
